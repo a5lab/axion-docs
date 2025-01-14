@@ -1,6 +1,6 @@
 name: axion
 title: Technology radar
-version: v0.2.0
+version: latest
 prerelease:
 nav:
 - modules/information/nav.adoc
