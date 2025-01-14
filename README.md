@@ -1,1 +1,2 @@
-# axion-docs
+# Docs
+Manuals for axion.
