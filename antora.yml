@@ -3,7 +3,6 @@ title: Technology radar
 version: latest
 prerelease:
 nav:
-- modules/information/nav.adoc
 - modules/installation/nav.adoc
 - modules/usage/nav.adoc
 - modules/best_practices/nav.adoc
